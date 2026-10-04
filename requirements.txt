@@ -1,0 +1,15 @@
+# Core Document Parsing & Data Handling
+pymupdf
+pandas
+openpyxl
+tabulate
+numpy
+
+# Vector Store & Search Engine
+faiss-cpu
+
+# LangChain Ecosystem & Local Ollama Integration
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
